@@ -1,0 +1,28 @@
+div {
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+}
+
+#contenedor{
+	width:500px; 
+	height:500px;
+	background:aqua;
+	position: relative;
+}
+
+.rojo{
+	width: 100px;
+	height: 100px;
+	background: #ee3e64;
+}
+	
+.blue{
+	width: 280px;
+	height: 280px;
+	background: #44accf;
+	position:absolute;
+	left:100px;
+	top: 100px;
+
+}
